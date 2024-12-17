@@ -1,32 +1,43 @@
-## Hi there 👋
+# Howdy, I'm Lasal! 👋
 
-<!--
-**lasalbinuwara/lasalbinuwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
--->
-- 🎓 I’m an **undergraduate student at SLIIT**
+### When I code, I rely on:
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23E34A86.svg?&style=flat&logo=java&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%23FF2A00.svg?&style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23FFBD19.svg?&style=flat&logo=esp32&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat&logo=git&logoColor=white)
 
-- 🌱 I’m currently learning and exploring **water quality monitoring systems**, IoT, and network design.
-  
-- 🔭 I’m currently working on projects involving **Arduino, ESP32**, water sensors, and AI concepts.
-  
-- 🤔 I’m looking for help with:  
-  - Enhancing my **IoT and sensor-based projects**.  
-  - Learning **best practices in network design** using tools like Cisco Packet Tracer.  
-  - Getting feedback and ideas for my **water quality monitoring systems**.  
-  - Collaborating on **open-source design and technology projects**.  
-  - Improving my **Adobe Stock and design portfolio** with fresh perspectives.
-    
-- 💬 Ask me about:  
-  - IoT systems and sensor integration (e.g., **pH and turbidity sensors**).  
-  - Designing **water quality monitoring solutions**.  
-  - Network design and Cisco Packet Tracer projects.  
-  - Creating **AI-generated art concepts** and stock photography.  
-  - Tools like **Arduino, ESP32, Octave**.
-    
-- 😄 Pronouns: He/Him
-  
-- ⚡ Fun fact: I blend **technology** with **IoT** designs.
+---
 
+### 🔭 I’m currently working on:
+- IoT-based **water quality monitoring systems** 🌱
+- **Network design** and optimization 🌐
+- **AI-generated art** and **stock photography** 🎨
 
+---
+
+### 🤔 I’m looking for help with:
+- Improving **sensor-based projects** and learning more about **IoT** 📡
+- **Network design** best practices using **Cisco Packet Tracer** 🖥️
+- **AI concepts** related to water monitoring systems 💧
+
+---
+
+### 💬 Ask me about:
+- **IoT Systems** like **pH** and **turbidity sensors** 🌿
+- Designing **water quality monitoring systems** 💡
+- Tools: **Arduino**, **ESP32**, **Octave**, **Git** 🔧
+
+---
+
+### 😄 Pronouns: Menu..
+
+---
+
+### ⚡ Fun Fact:
+I love **combining art** with **technology** through **IoT designs**!

@@ -27,6 +27,7 @@ Here are some ideas to get you started:
     
 - 😄 Pronouns: He/Him
   
-- ⚡ Fun fact: I love combining **art and technology**—whether it's designing IoT systems for water quality or creating **AI-generated art**. I believe every project is a chance        to innovate and express creativity in new ways!  
+- ⚡ Fun fact: I love combining **art and technology**—whether it's designing IoT systems for water quality or creating **AI-generated art**.
+    I believe every project is a chance to innovate and express creativity in new ways!  
 
 

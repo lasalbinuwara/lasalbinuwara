@@ -35,7 +35,7 @@
 
 ---
 
-### 😄 Pronouns: Menu..
+### 😄 Pronouns: He/Him
 
 ---
 
